@@ -24,6 +24,11 @@ public:
 		cout << "Manusia dibuat\n" << endl;
 	}
 	~manusia() {
-		cout << "Manusia dihapus\n"
+		cout << "Manusia dihapus\n" << endl;
 	}
+};
+
+class pelajar : private manusia, public orang {
+public:
+
 };
