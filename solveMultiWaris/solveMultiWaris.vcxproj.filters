@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProblemMultiWaris.cpp">
+    <ClCompile Include="solveMultiWaris.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
