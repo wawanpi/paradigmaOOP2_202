@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polimorpi", "Polimorpi\Poli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding", "noOverriding\noOverriding.vcxproj", "{0FA25A6E-38B4-4513-8810-142A85E77F57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nopewarisan", "Nopewarisan\Nopewarisan.vcxproj", "{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{0FA25A6E-38B4-4513-8810-142A85E77F57}.Release|x64.Build.0 = Release|x64
 		{0FA25A6E-38B4-4513-8810-142A85E77F57}.Release|x86.ActiveCfg = Release|Win32
 		{0FA25A6E-38B4-4513-8810-142A85E77F57}.Release|x86.Build.0 = Release|Win32
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Debug|x64.ActiveCfg = Debug|x64
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Debug|x64.Build.0 = Debug|x64
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Debug|x86.Build.0 = Debug|Win32
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Release|x64.ActiveCfg = Release|x64
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Release|x64.Build.0 = Release|x64
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Release|x86.ActiveCfg = Release|Win32
+		{DDAACC26-179C-44BC-9758-DA37EDB9F7D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
