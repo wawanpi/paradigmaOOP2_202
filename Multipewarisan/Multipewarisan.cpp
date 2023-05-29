@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+
+class orang {
+public:
+	string nama
+};
